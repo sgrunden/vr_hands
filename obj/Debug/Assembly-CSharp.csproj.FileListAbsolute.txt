@@ -1,0 +1,2 @@
+D:\unity_projects\vr_hands\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\unity_projects\vr_hands\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
